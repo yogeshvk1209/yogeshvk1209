@@ -6,7 +6,7 @@ I'm a Principal Cloud Engineer with extensive experience in cloud infrastructure
 ## 💻 Tech Stack
 
 ### 🔥 Core Expertise
-- **Cloud Platforms:** AWS
+- **Cloud Platforms:** AWS/GCP
 - **Infrastructure as Code:** Terraform
 - **Version Control:** Git
 - **CI/CD:** Jenkins
