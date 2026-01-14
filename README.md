@@ -45,6 +45,10 @@ I'm a Principal Cloud Engineer with extensive experience in cloud infrastructure
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AI + IaC Context Engineering: Making Coding Agents Actually Useful for Terraform](https://medium.com/@yogesh.vk/ai-iac-context-engineering-making-coding-agents-actually-useful-for-terraform-9f70194de2c6?source=rss-c06b57ad8ac6------2)
+- [How I Review Terraform PRs for Kubernetes Infrastructure &lpar;EKS &amp; GKE&rpar;](https://medium.com/@yogesh.vk/how-i-review-terraform-prs-for-kubernetes-infrastructure-eks-gke-f07f4bfd57fc?source=rss-c06b57ad8ac6------2)
+- [Setting Up an Amazon EKS Cluster with Self-Managed Node Groups Using Terraform](https://medium.com/@yogesh.vk/setting-up-an-amazon-eks-cluster-with-self-managed-node-groups-using-terraform-f4f62025c535?source=rss-c06b57ad8ac6------2)
+- [Deploying Bastion Hosts on AWS and GCP Using Terraform](https://medium.com/@yogesh.vk/deploying-bastion-hosts-on-aws-and-gcp-using-terraform-42f779625974?source=rss-c06b57ad8ac6------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎯 Current Focus
