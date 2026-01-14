@@ -43,6 +43,10 @@ I'm a Principal Cloud Engineer with extensive experience in cloud infrastructure
 - Implementing monitoring and observability solutions
 - Managing multi-environment cloud deployments
 
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## 🎯 Current Focus
 - 👀 Open to new opportunities and challenges in cloud engineering
 - 🌱 Continuously expanding knowledge in cloud-native technologies
