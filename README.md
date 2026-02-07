@@ -45,11 +45,11 @@ I'm a Principal Cloud Engineer with extensive experience in cloud infrastructure
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why AI Should Never Run terraform apply &lpar;And What It Should Do Instead&rpar;](https://medium.com/@yogesh.vk/why-ai-should-never-run-terraform-apply-and-what-it-should-do-instead-2c7ff4276d3b?source=rss-c06b57ad8ac6------2)
 - [MCP + Terraform + AWS: Auto-Generating Infra Documentation That Stays Updated](https://medium.com/@yogesh.vk/mcp-terraform-aws-auto-generating-infra-documentation-that-stays-updated-1401c72cbc94?source=rss-c06b57ad8ac6------2)
 - [From Linting to Reasoning: How AI is Changing the Future of CI/CD](https://medium.com/@yogesh.vk/from-linting-to-reasoning-how-ai-is-changing-the-future-of-ci-cd-1767d0fa6c41?source=rss-c06b57ad8ac6------2)
 - [AI + IaC Context Engineering: Making Coding Agents Actually Useful for Terraform](https://medium.com/@yogesh.vk/ai-iac-context-engineering-making-coding-agents-actually-useful-for-terraform-9f70194de2c6?source=rss-c06b57ad8ac6------2)
 - [How I Review Terraform PRs for Kubernetes Infrastructure &lpar;EKS &amp; GKE&rpar;](https://medium.com/@yogesh.vk/how-i-review-terraform-prs-for-kubernetes-infrastructure-eks-gke-f07f4bfd57fc?source=rss-c06b57ad8ac6------2)
-- [Setting Up an Amazon EKS Cluster with Self-Managed Node Groups Using Terraform](https://medium.com/@yogesh.vk/setting-up-an-amazon-eks-cluster-with-self-managed-node-groups-using-terraform-f4f62025c535?source=rss-c06b57ad8ac6------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎯 Current Focus
