@@ -45,11 +45,11 @@ I'm a Principal Cloud Engineer with extensive experience in cloud infrastructure
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Expensive Terraform Mistakes I Keep Seeing in Real Infrastructure and How AI can Help](https://medium.com/@yogesh.vk/5-expensive-terraform-mistakes-i-keep-seeing-in-real-infrastructure-and-how-ai-can-help-9a4849ddfc91?source=rss-c06b57ad8ac6------2)
 - [AI for DevOps and Platform Engineering: Practical Use Cases That Actually Work](https://medium.com/@yogesh.vk/ai-for-devops-and-platform-engineering-practical-use-cases-that-actually-work-efadc4a90f70?source=rss-c06b57ad8ac6------2)
 - [Why Cloud Costs Explode Even With “Best Practices”](https://medium.com/@yogesh.vk/why-cloud-costs-explode-even-with-best-practices-dc2490b0b101?source=rss-c06b57ad8ac6------2)
 - [Why AI Should Never Run terraform apply &lpar;And What It Should Do Instead&rpar;](https://medium.com/@yogesh.vk/why-ai-should-never-run-terraform-apply-and-what-it-should-do-instead-2c7ff4276d3b?source=rss-c06b57ad8ac6------2)
 - [MCP + Terraform + AWS: Auto-Generating Infra Documentation That Stays Updated](https://medium.com/@yogesh.vk/mcp-terraform-aws-auto-generating-infra-documentation-that-stays-updated-1401c72cbc94?source=rss-c06b57ad8ac6------2)
-- [From Linting to Reasoning: How AI is Changing the Future of CI/CD](https://medium.com/@yogesh.vk/from-linting-to-reasoning-how-ai-is-changing-the-future-of-ci-cd-1767d0fa6c41?source=rss-c06b57ad8ac6------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎯 Current Focus
