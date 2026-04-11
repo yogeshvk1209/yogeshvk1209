@@ -45,11 +45,11 @@ I'm a Principal Cloud Engineer with extensive experience in cloud infrastructure
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why AI and Automation Are Not Always the Right Answer in DevOps](https://medium.com/@yogesh.vk/why-ai-and-automation-are-not-always-the-right-answer-in-devops-8c0cb5e439bf?source=rss-c06b57ad8ac6------2)
 - [Using AI to Explain Terraform Plans to Humans](https://medium.com/@yogesh.vk/using-ai-to-explain-terraform-plans-to-humans-e631b264fafd?source=rss-c06b57ad8ac6------2)
 - [5 Expensive Terraform Mistakes I Keep Seeing in Real Infrastructure and How AI can Help](https://medium.com/@yogesh.vk/5-expensive-terraform-mistakes-i-keep-seeing-in-real-infrastructure-and-how-ai-can-help-9a4849ddfc91?source=rss-c06b57ad8ac6------2)
 - [AI for DevOps and Platform Engineering: Practical Use Cases That Actually Work](https://medium.com/@yogesh.vk/ai-for-devops-and-platform-engineering-practical-use-cases-that-actually-work-efadc4a90f70?source=rss-c06b57ad8ac6------2)
 - [Why Cloud Costs Explode Even With “Best Practices”](https://medium.com/@yogesh.vk/why-cloud-costs-explode-even-with-best-practices-dc2490b0b101?source=rss-c06b57ad8ac6------2)
-- [Why AI Should Never Run terraform apply &lpar;And What It Should Do Instead&rpar;](https://medium.com/@yogesh.vk/why-ai-should-never-run-terraform-apply-and-what-it-should-do-instead-2c7ff4276d3b?source=rss-c06b57ad8ac6------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎯 Current Focus
