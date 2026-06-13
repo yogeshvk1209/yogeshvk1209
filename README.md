@@ -45,11 +45,11 @@ I'm a Principal Cloud Engineer with extensive experience in cloud infrastructure
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using AWS DevOps Agent with Terraform and CI/CD Pipelines](https://medium.com/@yogesh.vk/using-aws-devops-agent-with-terraform-and-ci-cd-pipelines-eb25c6eb8741?source=rss-c06b57ad8ac6------2)
 - [What AI Misses About Multi-Cluster Kubernetes Environments](https://medium.com/@yogesh.vk/what-ai-misses-about-multi-cluster-kubernetes-environments-2710d0973a82?source=rss-c06b57ad8ac6------2)
 - [AI as an SRE Intern: What I Let Agents Touch During Incident Response](https://medium.com/@yogesh.vk/ai-as-an-sre-intern-what-i-let-agents-touch-during-incident-response-f0c843e1e1ca?source=rss-c06b57ad8ac6------2)
 - [Why AI-Generated Terraform Changes Can Be Dangerously Misleading](https://medium.com/@yogesh.vk/why-ai-generated-terraform-changes-can-be-dangerously-misleading-322e6eda3810?source=rss-c06b57ad8ac6------2)
 - [AI + GitOps: Why Context Matters More Than Reconciliation](https://medium.com/@yogesh.vk/ai-gitops-why-context-matters-more-than-reconciliation-f9e067d20e9a?source=rss-c06b57ad8ac6------2)
-- [AI as a Junior Platform Engineer: How I “Onboard” Coding Agents](https://medium.com/@yogesh.vk/ai-as-a-junior-platform-engineer-how-i-onboard-coding-agents-963e68e22742?source=rss-c06b57ad8ac6------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎯 Current Focus
