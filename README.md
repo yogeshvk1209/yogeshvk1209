@@ -45,11 +45,11 @@ I'm a Principal Cloud Engineer with extensive experience in cloud infrastructure
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Read-Only SRE: My Favorite Way to Use AI in Production](https://medium.com/@yogesh.vk/the-read-only-sre-my-favorite-way-to-use-ai-in-production-74653ff3c133?source=rss-c06b57ad8ac6------2)
 - [Why Better Prompts Won’t Fix AI in DevOps](https://medium.com/@yogesh.vk/why-better-prompts-wont-fix-ai-in-devops-235c0abe1814?source=rss-c06b57ad8ac6------2)
 - [Using AWS DevOps Agent with Terraform and CI/CD Pipelines](https://medium.com/@yogesh.vk/using-aws-devops-agent-with-terraform-and-ci-cd-pipelines-eb25c6eb8741?source=rss-c06b57ad8ac6------2)
 - [What AI Misses About Multi-Cluster Kubernetes Environments](https://medium.com/@yogesh.vk/what-ai-misses-about-multi-cluster-kubernetes-environments-2710d0973a82?source=rss-c06b57ad8ac6------2)
 - [AI as an SRE Intern: What I Let Agents Touch During Incident Response](https://medium.com/@yogesh.vk/ai-as-an-sre-intern-what-i-let-agents-touch-during-incident-response-f0c843e1e1ca?source=rss-c06b57ad8ac6------2)
-- [Why AI-Generated Terraform Changes Can Be Dangerously Misleading](https://medium.com/@yogesh.vk/why-ai-generated-terraform-changes-can-be-dangerously-misleading-322e6eda3810?source=rss-c06b57ad8ac6------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎯 Current Focus
