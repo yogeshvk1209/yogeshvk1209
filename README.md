@@ -45,11 +45,11 @@ I'm a Principal Cloud Engineer with extensive experience in cloud infrastructure
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AI and the Illusion of “Safe” Automation in Kubernetes](https://medium.com/@yogesh.vk/ai-and-the-illusion-of-safe-automation-in-kubernetes-dd0095df4e9d?source=rss-c06b57ad8ac6------2)
 - [What Happens When AI Meets Legacy DevOps Pipelines](https://medium.com/@yogesh.vk/what-happens-when-ai-meets-legacy-devops-pipelines-e533d33322e7?source=rss-c06b57ad8ac6------2)
 - [The Hidden Risk of AI-Generated Kubernetes YAML](https://medium.com/@yogesh.vk/the-hidden-risk-of-ai-generated-kubernetes-yaml-230049d94844?source=rss-c06b57ad8ac6------2)
 - [The Biggest AI Mistake DevOps Teams Are Making](https://medium.com/@yogesh.vk/the-biggest-ai-mistake-devops-teams-are-making-d2842da34b35?source=rss-c06b57ad8ac6------2)
 - [AI Can Generate Terraform. It Can’t See the Blast Radius](https://medium.com/@yogesh.vk/ai-can-generate-terraform-it-cant-see-the-blast-radius-c1a59c591d06?source=rss-c06b57ad8ac6------2)
-- [The Read-Only SRE: My Favorite Way to Use AI in Production](https://medium.com/@yogesh.vk/the-read-only-sre-my-favorite-way-to-use-ai-in-production-74653ff3c133?source=rss-c06b57ad8ac6------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎯 Current Focus
